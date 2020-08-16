@@ -1,0 +1,73 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-weight: 500;
+    padding: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid #000;
+}
+.fruits{
+    line-height: 2.5;
+}
+.vegetables{
+    line-height: 1.5;
+}
+.main-list{
+    font-size: 20px;
+    font-weight: 500;
+}
+dl{
+    background: rgba(0,0,0,.25);
+}
+dl dt{
+    font-size: 25px;
+    font-weight: 600;
+}
+dl dd{
+
+}
+ul{
+    background: rgba(0,0,0,.15);
+}
+ul li{
+
+}
+ul li dfn{
+    font-style: normal;
+    font-weight: 600;
+}
+ul li p{
+    font-weight: 400;
+}
+q{
+
+}
+u{
+
+}
+code{
+    color: #ffa555;
+    padding: 5px;
+    border: 1px solid #ffa555;
+}
+kbd{
+    padding: 0 3px;
+    border-radius: 3px;
+    border-top: 2px solid rgb(240, 240, 240);
+    border-bottom: 2px solid rgb(205, 205, 205);
+    border-right: 2px solid rgb(205, 205, 205);
+    border-left: 2px solid rgb(240, 240, 240);
+}
+.bold{
+    font-weight: 700;
+}
+ins{
+
+}
+del{
+    
+}
