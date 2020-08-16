@@ -1,0 +1,18 @@
+#naver{
+    border: solid 3px #e5e5e5;
+    margin-bottom: 50px; 
+}
+#canvas{
+    border: 1px solid #e5e5e5;
+}
+figure{
+
+}
+#HEROPY{
+    display: flex;
+    width: 30%;
+    max-width: 300px;
+}
+figcaption{
+    font: italic;
+}
